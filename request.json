@@ -1,0 +1,1 @@
+query: "query typeEventsCombat{\n  typeEventsCombat{\n    edges {\n      node{\n        id\n        number\n      }\n    }\n    count\n    total\n  }\n}"
